@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_logo_splash">190dp</dimen>
+    <dimen name="altura_logo_splash">190dp</dimen>
+    <dimen name="textsize_below_logo_splash">20dp</dimen>
+    <dimen name="text_size_developer_name">11dp</dimen>
+    <dimen name="itemcategoriadespesas_bteditar_dimen">40dp</dimen>
+    <dimen name="itemcategoriadespesa_btexcluir_dimen">40dp</dimen>
+    <dimen name="itemcategoriadespesa_field_nome_marginleft_dimen">10dp</dimen>
+    <dimen name="itemcategoriadespesa_tvidcategoriadespesa_marginleft_dimen">10dp</dimen>
+    <dimen name="itemcategoriadespesa_vw_divider_margin_top_dimen">20dp</dimen>
+    <dimen name="itemcategoriadespesa_vw_divider_layout_height_dimen">0.8dp</dimen>
+</resources>

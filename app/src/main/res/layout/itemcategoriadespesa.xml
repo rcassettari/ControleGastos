@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/itemcategoriadespesas_bteditar_dimen"
+        android:id="@+id/btEditar"
+        android:text="@string/itemcategoriadespesa_botao_editar"
+        android:onClick="editar"
+        />
+
+    <Button
+        android:layout_toRightOf="@id/btEditar"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/itemcategoriadespesa_btexcluir_dimen"
+        android:id="@+id/btExcluir"
+        android:text="@string/itemcategoriadespesa_botao_excluir"
+        android:onClick="excluir"
+        />
+
+    <TextView
+        android:layout_toRightOf="@+id/btExcluir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/itemcategoriadespesa_field_nome_marginleft_dimen"
+        android:id = "@+id/tvNome"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/itemcategoriadespesa_tvidcategoriadespesa_marginleft_dimen"
+        android:id = "@+id/tvIdCategoriaDespesa"
+        android:visibility="invisible"
+        />
+
+    <View
+        android:id="@+id/vw_divider"
+        android:layout_marginTop="@dimen/itemcategoriadespesa_vw_divider_margin_top_dimen"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvNome"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/itemcategoriadespesa_vw_divider_layout_height_dimen" />
+
+</RelativeLayout>

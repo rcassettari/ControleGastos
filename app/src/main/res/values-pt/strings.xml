@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Categorias de Despesas</string>
+    <string name="app_version_name_default_when_no_access">-</string>
+    <string name="DATABASE_INSERT_SUCCESS">SUCCESSO_INSERIR_BANCO</string>
+    <string name="ERR_DATABASE_INSERT_ERROR">ERRO_INSERIR_BANCO</string>
+    <string name="about_activity_button_close">Fechar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="activity_login_button_connect_text">Conectar</string>
+    <string name="activity_login_keep_conected_text">Manter Conectado</string>
+    <string name="activity_login_login_hint">Usuário</string>
+    <string name="activity_login_password_hint">Senha</string>
+    <string name="activity_nova_categoria_despesa_botao_cadastrar">Cadastrar</string>
+    <string name="activity_nova_categoria_despesa_nome_categoria">Nome da categoria de despesa</string>
+    <string name="app_version_name_title">Versão:</string>
+    <string name="button_expense_category_update">Atualizar</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="delete_expense_category_completed">Excluída Categoria de Despesas:</string>
+    <string name="desenvolvido_por">Desenvolvido por: Ricardo Cassettari Junior</string>
+    <string name="err_delete_expense_category">Erro ao excluir categoria de despesa:</string>
+    <string name="err_keeping_expense_category">Erro ao manter categoria de despesas:</string>
+    <string name="err_loading_data">Houve um erro ao carregar os dados :</string>
+    <string name="err_sincronize_user_data">Falha na sincronização de dados do usuário! Por favor, feche o aplicativo e tente novamente.</string>
+    <string name="expense_category_created">Categoria de despesa criada.</string>
+    <string name="expense_category_updated">Categoria de despesa atualizada.</string>
+    <string name="itemcategoriadespesa_botao_editar">Editar</string>
+    <string name="itemcategoriadespesa_botao_excluir">Excluir</string>
+    <string name="loading_data">Carregando os dados...</string>
+    <string name="login_activity_invalid_user_or_password">Usuário ou senha inválido.</string>
+    <string name="menu_item_sair">Sair</string>
+    <string name="menu_item_sobre">Sobre...</string>
+    <string name="navigation_drawer_close">Fechar painel de navegação</string>
+    <string name="navigation_drawer_open">Abrir painel de navegação</string>
+    <string name="url_to_get_user">http://www.mocky.io/v2/58b9b1740f0000b614f09d2f</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="found_executing_script">Encontrado, executando script...</string>
+    <string name="script_not_found">Script não encontrado</string>
+    <string name="executing_script">Executando script</string>
+    <string name="cannot_read_sqllite_file">Não é possível ler o arquivo do SQL Lite</string>
+</resources>

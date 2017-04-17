@@ -1,0 +1,16 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="largura_logo_splash">190dp</dimen>
+    <dimen name="altura_logo_splash">190dp</dimen>
+    <dimen name="textsize_below_logo_splash">20dp</dimen>
+    <dimen name="text_size_developer_name">11dp</dimen>
+    <dimen name="itemcategoriadespesas_bteditar_dimen">40dp</dimen>
+    <dimen name="itemcategoriadespesa_btexcluir_dimen">40dp</dimen>
+    <dimen name="itemcategoriadespesa_field_nome_marginleft_dimen">10dp</dimen>
+    <dimen name="itemcategoriadespesa_tvidcategoriadespesa_marginleft_dimen">10dp</dimen>
+    <dimen name="itemcategoriadespesa_vw_divider_margin_top_dimen">20dp</dimen>
+    <dimen name="itemcategoriadespesa_vw_divider_layout_height_dimen">0.8dp</dimen>
+</resources>
